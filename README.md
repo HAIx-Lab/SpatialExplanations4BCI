@@ -5,6 +5,7 @@ Code for the paper "Quantifying Spatial Domain Explanations in BCI using EMD", I
 Use requirements.txt with Python 3.7 or higher
 
 # Reproducing results
+Dataset: To skip the pre-processing step to generate epoch data, you may refer to this [repo](https://github.com/xiangzhang1015/Deep-Learning-for-BCI) for the dataset.
 
 To use PyRiemmanian/Conformer/EEGNet, use the files with corresponding prefixes.
 For a given architecture, there are 3 files corresponding to 3 conditions:
